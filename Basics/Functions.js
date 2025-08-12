@@ -12,6 +12,6 @@ function table(num){
 let num=prompt("Enter a number to find its table = ");
 num=Number.parseInt(num);
 
-table(num)
+table(num);
 
 
