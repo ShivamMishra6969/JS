@@ -19,3 +19,5 @@ else console.log("you are not eligible");
 
 console.log("you can",(age>18 ? "drive" : "not drive"),"\n"); //! ternary operator
 
+
+
