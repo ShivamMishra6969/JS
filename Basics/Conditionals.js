@@ -5,6 +5,8 @@ let age=prompt("Enter your age = ");
 
 a=Number.parseInt(age); //! converting string to number
 
+console.log("awesome");
+
 
 if(age<0){
     console.log("invalid age");
