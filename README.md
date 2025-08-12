@@ -13,7 +13,7 @@ Here, I collect notes, code snippets, and practice projects as I progress on my 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/ShivamMishra6969/JS.git
+git clone https://github.com/shivam20XX/JS.git
 cd JS
 ```
 
