@@ -1,12 +1,12 @@
-# JS Learning Repository
+# JavaScript Learning Repository
 
 This repository is my personal space for learning the JavaScript language.  
-Here, I collect notes, code snippets, and practice projects as I progress on my JS journey.
+Here, I collect notes, code snippets, and practice projects as I progress on my journey.
 
 ## 📚 About
 
 - Personal JavaScript learning notes and experiments
-- Code examples to understand various JS concepts
+- Code examples to understand various JavaScript concepts
 - Projects and exercises (to be added as I advance)
 
 ## 🛠️ Getting Started
