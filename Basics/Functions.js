@@ -1,3 +1,3 @@
-console.log("functions in javascript");
+console.log("functions in javascript")
 
 
