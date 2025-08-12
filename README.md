@@ -29,10 +29,6 @@ Explore the files for tutorials, notes, and (in the future) projects.
 
 This repo is for my personal learning, so obviosuly no contribution.
 
-## 📜 License
-
-[MIT License](LICENSE)
-
 ---
 
 *Learning never stops!*
