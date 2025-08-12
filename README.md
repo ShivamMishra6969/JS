@@ -27,7 +27,7 @@ Explore the files for tutorials, notes, and (in the future) projects.
 
 ## 🤝 Contributions
 
-This repo is for my personal learning, so contributions are not currently open.
+This repo is for my personal learning, so obviosuly no contribution.
 
 ## 📜 License
 
