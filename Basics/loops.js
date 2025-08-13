@@ -27,3 +27,27 @@ let obj={
  for(let b of "chaman"){
     console.log(b);
  }
+
+
+
+ let obj2={
+    "name":"chaman",
+    "age":22,
+    "city":"delhi"
+ }
+
+ for(let keyIndex=0; keyIndex<Object.keys(obj2).length; keyIndex++){
+    console.log("Details of object are: ", Object.keys(obj2)[keyIndex], "=", obj2[Object.keys(obj2)[keyIndex]]);
+    
+
+ }
+
+
+ //* Guessing Game
+
+ let correctNumber=3;
+ let i;
+ while(i!=correctNumber){
+    i=prompt("Enter the number = ");
+ }
+console.log("yay you guessed it!");
