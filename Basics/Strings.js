@@ -26,3 +26,26 @@ let str="I\'m awesome"
 console.log(str);
 
 
+//* Strings methods
+
+
+let str2= "Cloud";
+console.log(str2.length);
+
+console.log(str2.toUpperCase());
+console.log(str2.toLowerCase());
+
+console.log(str2.slice(0,2));
+console.log(str2.slice(0));
+
+console.log(str2.replace("lou","row"));
+
+
+let str3="Naman";
+console.log(str3.concat(" is a boy"));
+
+
+let char="      HAPPY               "
+console.log(char.trim());
+
+
