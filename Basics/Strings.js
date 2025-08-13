@@ -49,3 +49,18 @@ let char="      HAPPY               "
 console.log(char.trim());
 
 
+
+//* questions
+
+console.log("har\'".length); //* 4
+
+let str4="chamamn";
+console.log(str4.toLowerCase());
+
+let sentence2="Please give Rs 100";
+
+console.log(sentence2.slice(15,18)); //*100
+
+
+
+
