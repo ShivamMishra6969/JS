@@ -32,15 +32,17 @@ let obj={
 
  let obj2={
     "name":"chaman",
-    "age":22,
+    "age": 22,
     "city":"delhi"
  }
 
- for(let keyIndex=0; keyIndex<Object.keys(obj2).length; keyIndex++){
-    console.log("Details of object are: ", Object.keys(obj2)[keyIndex], "=", obj2[Object.keys(obj2)[keyIndex]]);
+//  for(let keyIndex=0; keyIndex<Object.keys(obj2).length; keyIndex++){
+//     console.log("Details of object are: ", Object.keys(obj2)[keyIndex], "=", obj2[Object.keys(obj2)[keyIndex]]);
     
 
- }
+//  }
+
+console.table(obj2);
 
 
  //* Guessing Game
