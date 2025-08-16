@@ -88,6 +88,4 @@ for(let i of arr){
 }
 
 
-//! Map in javascript
-
 

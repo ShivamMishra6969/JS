@@ -16,34 +16,25 @@ console.log("map,filter and reduce in javascript");
 
 // console.log(a1);
 
-
 //*  these all methods creates a new array or copy
 
+let arr = [4, 6, 1, 3, 5, 9];
 
-let arr=[4,6,1,3,5,9];
-
-let a1=arr.reduce((h1,h2) =>{
-    return h1+h2;
-})
+let a1 = arr.reduce((h1, h2) => {
+  return h1 + h2;
+});
 console.log(a1);
 
-
-const prompt=require("prompt-sync")();
+const prompt = require("prompt-sync")();
 
 // let a=prompt("Enter the number = ");
 // arr.push(a);
 // console.log(a);
 
-
-let a2;
-while(a2!=0){
-    a2=prompt("Enter a number = ");
-    a2=Number.parseInt(a2);
-    arr.push(a2);
-}
-console.log(a2);
-
-
-
-
-
+// let a2;
+// while (a2 !== 0) {
+//   a2 = prompt("Enter a number = ");
+//   a2 = Number.parseInt(a2);
+//   arr.push(a2);
+// }
+// console.log(a2);
