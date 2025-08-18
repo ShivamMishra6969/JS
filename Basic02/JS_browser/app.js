@@ -22,9 +22,34 @@
 
 // console.log(document.body);
 
-console.log(document.body.firstChild)
-console.log(document.body.lastChild)
+//* table in dom
 
-let arr=Array.from(document.body.childNodes)
-console.table(arr)
+// console.log(document.body.firstChild)
+// console.log(document.body.lastChild)
+
+// let arr=Array.from(document.body.childNodes)
+// console.table(arr)
+
+// let b=document.body;
+
+// console.log(b.firstChild);
+// console.log(b.firstElementChild);
+
+
+// let t=document.body.firstElementChild;
+
+// console.log(t.rows);
+// console.log(t.caption);
+// console.log(t.tHead.firstElementChild);
+// console.log(t.tFoot);
+// console.log(t.Bodies);
+// console.log(t.caption);
+
+// console.log(t.rows[0].rowIndex);
+
+
+// console.log(typeof document);
+// console.log(typeof window);
+
+
 
