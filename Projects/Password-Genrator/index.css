@@ -8,8 +8,11 @@ body {
     background-color: #ECFDF5;
     top: 64px;
     left: 61px;
+    align-items: center;
     
 }
+
+
 
 h1{
     margin-left: 10px;
