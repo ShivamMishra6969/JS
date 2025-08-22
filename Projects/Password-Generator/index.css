@@ -42,7 +42,7 @@ hr{
 #btn{
     background-color: #10B981;
     border-radius:6px ;
-    gap: 12px;
+    gap: 20px;
     color: white;
     height: 42px;
     margin: 10px;
@@ -50,7 +50,7 @@ hr{
     cursor: pointer;
     outline: none;
     margin-top: 25px;
-    padding: 5px,10px;
+    
 }
 
 h3{
